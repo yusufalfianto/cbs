@@ -1,4 +1,4 @@
-Nama : Muhammad Yusuf Alfiantoxdvgbhjl;
+Nama : Muhammad Yusuf Alfianto
 NPM  : 1408116001
 TTL  : Grobogan, 30 Juli 1998
 
@@ -7,4 +7,8 @@ Jenis kelamin : Laki-laki
 Nama : Yaumi Hadi Maulana
 NPM  : 140810160039
 Jenis kelamin : Laki-laki 
+............................................
+
+Nama : Yaumi Hadi Maulana
+NPM  : 140810160039
 
